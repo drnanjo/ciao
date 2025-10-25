@@ -77,6 +77,11 @@ ul li a:hover {
   background-color: #111111;
 }
 
+p {
+ font-family: Garamond;
+ font-size: 3em;
+}
+
 
     form {
             width: 400px;
@@ -145,3 +150,4 @@ footer {
     
 
 }
+
