@@ -84,6 +84,7 @@ p {
 
 main p {
  margin: auto 10px;
+ color: darkblue;
 }
 
     form {
@@ -153,5 +154,6 @@ footer {
     
 
 }
+
 
 
