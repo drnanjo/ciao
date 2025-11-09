@@ -1,7 +1,10 @@
 body {
 width: 90%;
 background-color: white;
-margin: 15px auto;
+min-height: 100%;
+margin: 0;
+display: flex;
+flex-direction: column;
 border-bottom: 1px solid #ef9c00;
 }
    
@@ -82,11 +85,6 @@ p {
  font-size: 1.2em;
 }
 
-main p {
- margin: auto;
- color: darkblue;
-}
-
     form {
             width: 400px;
             background-color: #fff;
@@ -138,9 +136,14 @@ main p {
         }
 main {
 width: 66%;
-height: 350px;
+flex-grow: 1;
 border-right: 2px solid #ef9c00;
 float: left;
+}
+
+main p {
+ margin: auto;
+ color: darkblue;
 }
 
 aside {
@@ -154,6 +157,7 @@ footer {
     
 
 }
+
 
 
 
