@@ -136,14 +136,16 @@ border-right: 2px solid #ef9c00;
 float: left;
 }
 
-main p {
- color: darkblue;
-}
 
 aside {
 width: 33%;
 float: right;
 }
+
+aside p {
+ color: darkblue;
+}
+
 
 footer {
     clear: both;
@@ -151,6 +153,7 @@ footer {
     
 
 }
+
 
 
 
