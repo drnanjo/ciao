@@ -83,7 +83,7 @@ p {
 }
 
 main p {
- margin: auto 10px;
+ margin: auto;
  color: darkblue;
 }
 
@@ -154,6 +154,7 @@ footer {
     
 
 }
+
 
 
 
