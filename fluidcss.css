@@ -142,7 +142,7 @@ float: left;
 }
 
 main p {
- margin: auto;
+ margin-bottom: 20px;
  color: darkblue;
 }
 
@@ -157,6 +157,7 @@ footer {
     
 
 }
+
 
 
 
