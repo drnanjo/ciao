@@ -139,10 +139,10 @@ width: 66%;
 flex-grow: 1;
 border-right: 2px solid #ef9c00;
 float: left;
+margin-bottom: 20px;
 }
 
 main p {
- margin-bottom: 20px;
  color: darkblue;
 }
 
@@ -157,6 +157,7 @@ footer {
     
 
 }
+
 
 
 
