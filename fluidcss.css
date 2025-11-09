@@ -79,9 +79,12 @@ ul li a:hover {
 
 p {
  font-family: Garamond;
- font-size: 3em;
+ font-size: 1.2em;
 }
 
+main p {
+ margin: auto 10px;
+}
 
     form {
             width: 400px;
@@ -150,4 +153,5 @@ footer {
     
 
 }
+
 
