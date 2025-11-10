@@ -148,12 +148,14 @@ aside p {
 
 
 footer {
-   margin-top: 200px;
+    margin-top: 100px;
+    width: 100%;
     clear: both;
     border-top: 2px solid #ef9c00;
     
 
 }
+
 
 
 
